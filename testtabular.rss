@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+   
+   <rss version="2.0"
+        xmlns:content="http://purl.org/rss/1.0/modules/content/">
+   
+       <channel>
+           <title>Horse and Hound events dismiss</title>
+           <description>An RSS Example with Slash</description>
+           <link>http://www.equoevents.com</link>
+   
+           <item>
+               <title> Cobham Manor - Affiliated Dressage </title>
+               <link>http://www.equoevents.com/event-link</link>
+               <content:encoded><![CDATA[<td class="event-date">12-Oct</td>
+         <td class="event-type">Dressage</td>
+         <td class="event-name"><a href="http://www.equoevents.com/event-link">Cobham Manor - Affiliated Dressage</a></td>
+         <td class="event-venue"><a href="http://www.equoevents.com/event-venue-link">Cobham Manor Equestrian Centre</a></td>
+         <td class="event-location">Maidstone</td>
+         <td class="event-organiser"><a href="http://www.equoevents.com/event-organiser-link">Moli Shows</a></td>]]></content:encoded>
+           </item>
+   
+           <item>
+               <title> Cobham Manor - Affiliated Dressage </title>
+               <link>http://www.equoevents.com/event-link</link>
+               <content:encoded><![CDATA[<td class="event-date">12-Oct</td>
+         <td class="event-type">Dressage</td>
+         <td class="event-name"><a href="http://www.equoevents.com/event-link">Cobham Manor - Affiliated Dressage</a></td>
+         <td class="event-venue"><a href="http://www.equoevents.com/event-venue-link">Cobham Manor Equestrian Centre</a></td>
+         <td class="event-location">Maidstone</td>
+         <td class="event-organiser"><a href="http://www.equoevents.com/event-organiser-link">Moli Shows</a></td>]]></content:encoded>
+           </item>
+   
+           <item>
+               <title> Cobham Manor - Affiliated Dressage </title>
+               <link>http://www.equoevents.com/event-link</link>
+               <content:encoded><![CDATA[<td class="event-date">12-Oct</td>
+         <td class="event-type">Dressage</td>
+         <td class="event-name"><a href="http://www.equoevents.com/event-link">Cobham Manor - Affiliated Dressage</a></td>
+         <td class="event-venue"><a href="http://www.equoevents.com/event-venue-link">Cobham Manor Equestrian Centre</a></td>
+         <td class="event-location">Maidstone</td>
+         <td class="event-organiser"><a href="http://www.equoevents.com/event-organiser-link">Moli Shows</a></td>]]></content:encoded>
+           </item>
+       </channel>
+   
+   </rss>
